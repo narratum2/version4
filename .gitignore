@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+.env.*
+.env*.local
+
+# project instructions (may contain tokens)
+CLAUDE.md
+
+# misc
+.DS_Store
+*.zip
+
+# vercel
+.vercel
